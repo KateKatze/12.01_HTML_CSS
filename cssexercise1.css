@@ -1,0 +1,34 @@
+/* Give all the divs a border of your choice, as well as a margin of 5px.
+
+Visibility keeps the place on the page */
+
+div {
+    border: 2px solid black;
+    margin: 5px;
+}
+
+/* Hide the p element that is the direct child of the div with the id of “third” */
+
+#third > p {
+    visibility: hidden;
+}
+
+/* Hide all the h1 elements on the page. 
+
+Display: none; takes the place and element away */
+
+h1 {
+    display: none;
+}
+
+/* Hide all the descendants of the div with the id “second”. */
+
+#second {
+    visibility: hidden;
+}
+
+/* Now display again ONLY the <img> elements on the page. */
+
+#sixth img {
+    visibility: visible;
+}
