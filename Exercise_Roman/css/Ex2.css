@@ -1,0 +1,19 @@
+div{
+    margin: 5px solid black;
+    border: 2px;
+}
+#third > p{
+    visibility: visible;
+}
+h1{
+    visibility: visible;
+}
+#second div{
+    visibility: visible;
+}
+img{
+    visibility: visible;
+}
+#first p{
+    font-size: large;
+}
