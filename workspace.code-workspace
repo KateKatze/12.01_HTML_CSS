@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\HTL\\POS"
+		},
+		{
+			"path": "..\\CodeFactory"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "POS"
+	}
+}
