@@ -7,3 +7,7 @@ footer {
     color: rgb(10, 10, 10);
     text-align: center;
   }
+
+footer a:hover {
+    color:green;
+}

@@ -32,4 +32,10 @@ body{
 
 .summary {
     text-align: center;
+    padding-bottom: 20px;
+}
+
+.article1 h3 {
+    color: rgb(73, 72, 72);
+    font-style: italic;
 }

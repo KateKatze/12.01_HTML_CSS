@@ -32,6 +32,21 @@ body{
 
 .summary {
     text-align: center;
+    padding-bottom: 20px;
+}
+
+.article1 h3 {
+    color: rgb(73, 72, 72);
+    font-style: italic;
+}
+
+ul {
+    list-style: none;
+}
+
+h4 {
+    color: brown; 
+    font-size: 200%;
 }
 
 .text {
@@ -44,9 +59,13 @@ body{
     text-align: left;
 }
 
+.article1 {
+    margin-bottom: 50px;
+}
+
 .sidebar{
     margin:0;
-    width:380px;
+    width:450px;
     float: right;
     margin-right:50px;
     position:relative;
@@ -62,4 +81,8 @@ footer {
     background-color: rgb(192, 188, 188);
     color: rgb(10, 10, 10);
     text-align: center;
-  }
+}
+
+footer a:hover {
+    color:green;
+}

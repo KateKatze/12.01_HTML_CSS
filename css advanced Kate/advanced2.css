@@ -8,9 +8,13 @@
     text-align: left;
 }
 
+.article1 {
+    padding-bottom: 50px;
+}
+
 .sidebar{
     margin:0;
-    width:380px;
+    width:450px;
     float: right;
     margin-right:50px;
     position:relative;
