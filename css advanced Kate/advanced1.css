@@ -1,0 +1,31 @@
+body{
+    font-family: "Playfair Display", sans-serif;
+    font-size: 15px;
+    color: #080808;
+    background-color: #e4e0e0;
+}
+
+.headline{
+    text-align: center;
+    font-weight: 700;
+    font-size: 70px;
+    text-transform: uppercase;
+    line-height: 72px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+
+.authors{
+    text-align: center;
+    position: relative;
+}
+
+
+.today{
+    text-align: center;
+    border-bottom: 2px solid #2f2f2f;
+    border-top: 2px solid #2f2f2f;
+    padding: 12px 0 12px 0;
+
+}

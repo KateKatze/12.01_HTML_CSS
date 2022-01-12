@@ -1,0 +1,20 @@
+.text {
+    margin-left: 50px;
+    width:700px;
+    float: left;
+    margin-right:20px;
+    position:relative;
+    padding: 3px;
+    text-align: left;
+}
+
+.sidebar{
+    margin:0;
+    width:380px;
+    float: right;
+    margin-right:50px;
+    position:relative;
+    padding: 3px;
+    text-align: left;
+}
+
