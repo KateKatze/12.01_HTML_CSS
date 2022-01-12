@@ -1,0 +1,16 @@
+div{
+    margin: 5px solid black;
+    border: 2px;
+}
+#third > p{
+    visibility: hidden;
+}
+h1{
+    visibility: hidden;
+}
+#second div{
+    visibility: hidden;
+}
+img{
+    visibility: visible;
+}
