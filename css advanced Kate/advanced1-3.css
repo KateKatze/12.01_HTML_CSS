@@ -30,6 +30,10 @@ body{
 
 }
 
+.summary {
+    text-align: center;
+}
+
 .text {
     margin-left: 50px;
     width:700px;
